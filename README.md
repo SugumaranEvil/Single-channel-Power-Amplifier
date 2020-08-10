@@ -1,1 +1,1 @@
-# Single-channel-Power-Amplifier
+#Schematic Diagram of Single-channel-Power-Amplifier
